@@ -24,5 +24,8 @@ Los modelos ajustados muestran un desempeño satisfactorio, permitiendo analizar
 
 ***Los datos utilizados en este proyecto fueron obtenidos a través de Yahoo Finance. Para su extracción en línea directamente desde el código, se implementaron diversas librerías especializadas.***
 
+**Volatilidad condicional frente a los retornos del dolar y dolar canadiense frente al peso mexicano**
 ![Volatilidad condicional frente a los retornos del dolar y dolar canadiense frente al peso mexicano](mul2.png)
-![Correlación condicional de las las series del dolar y dolar canadiense frente al peso mexicano](mul4.png)
+
+**Correlación condicional de las series del dolar y dolar canadiense frente al peso mexicano**
+![Correlación condicional de las series del dolar y dolar canadiense frente al peso mexicano](mul4.png)
